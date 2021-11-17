@@ -1,0 +1,4 @@
+This is a String
+12 13
+15.5
+abcd
